@@ -1,6 +1,3 @@
-import flixel.math.FlxPoint;
-import utils.cool.StringUtil;
-
 function onEventHit(id, x, y, tweenMovement, duration, ease, direction, isOffset, unused)
 {
     if (id != 'Camera Position')
@@ -19,7 +16,7 @@ function onEventHit(id, x, y, tweenMovement, duration, ease, direction, isOffset
     }
     else
     {
-        final tweenEase = StringUtil.easeFromString(Std.string(ease ?? '') + Std.string(direction ?? ''));
+        final tweenEase = CoolUtil.easeFromString(Std.string(ease ?? '') + Std.string(direction ?? ''));
         camGame.tweenPosition(nextX, nextY, Conductor.stepCrochet / 1000 * (duration ?? 4), {
             ease: tweenEase
         });
