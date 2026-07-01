@@ -1,0 +1,12 @@
+{
+	"titleState": "IkawaMenuState",
+	"mainMenuState": "IkawaMenuState",
+	"freeplayState": "IkawaMenuState",
+	"pauseSubState": "IkawaPauseSubState",
+	"developerMode": true,
+	"hotReloading": true,
+	"debugPrint": true,
+	"bpm": 122,
+	"title": "Friday Night Funkin' - Ikawa Oneshot",
+	"loadDefaultWeeks": false
+}

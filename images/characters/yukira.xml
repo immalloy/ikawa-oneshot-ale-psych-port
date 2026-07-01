@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yukira.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yukira idle dance0000" x="432" y="790" width="372" height="763" frameX="0" frameY="-18" frameWidth="372" frameHeight="782"/>
+	<SubTexture name="yukira idle dance0001" x="432" y="790" width="372" height="763" frameX="0" frameY="-18" frameWidth="372" frameHeight="782"/>
+	<SubTexture name="yukira idle dance0002" x="813" y="4" width="367" height="766" frameX="-1" frameY="-16" frameWidth="372" frameHeight="782"/>
+	<SubTexture name="yukira idle dance0003" x="813" y="4" width="367" height="766" frameX="-1" frameY="-16" frameWidth="372" frameHeight="782"/>
+	<SubTexture name="yukira idle dance0004" x="813" y="774" width="362" height="772" frameX="-1" frameY="-10" frameWidth="372" frameHeight="782"/>
+	<SubTexture name="yukira idle dance0005" x="813" y="774" width="362" height="772" frameX="-1" frameY="-10" frameWidth="372" frameHeight="782"/>
+	<SubTexture name="yukira idle dance0006" x="792" y="1557" width="363" height="781" frameX="-1" frameY="-1" frameWidth="372" frameHeight="782"/>
+	<SubTexture name="yukira idle dance0007" x="792" y="1557" width="363" height="781" frameX="-1" frameY="-1" frameWidth="372" frameHeight="782"/>
+	<SubTexture name="yukira idle dance0008" x="425" y="1560" width="363" height="782" frameX="-1" frameY="0" frameWidth="372" frameHeight="782"/>
+	<SubTexture name="yukira idle dance0009" x="425" y="1560" width="363" height="782" frameX="-1" frameY="0" frameWidth="372" frameHeight="782"/>
+	<SubTexture name="yukira idle dance0010" x="446" y="4" width="363" height="782" frameX="-1" frameY="0" frameWidth="372" frameHeight="782"/>
+	<SubTexture name="yukira idle dance0011" x="446" y="4" width="363" height="782" frameX="-1" frameY="0" frameWidth="372" frameHeight="782"/>
+	<SubTexture name="yukira idle dance0012" x="446" y="4" width="363" height="782" frameX="-1" frameY="0" frameWidth="372" frameHeight="782"/>
+	<SubTexture name="yukira idle dance0013" x="446" y="4" width="363" height="782" frameX="-1" frameY="0" frameWidth="372" frameHeight="782"/>
+	<SubTexture name="yukira idle dance0014" x="446" y="4" width="363" height="782" frameX="-1" frameY="0" frameWidth="372" frameHeight="782"/>
+	<SubTexture name="yukira pose down0000" x="806" y="2342" width="371" height="712" frameX="-1" frameY="-9" frameWidth="382" frameHeight="722"/>
+	<SubTexture name="yukira pose down0001" x="806" y="2342" width="371" height="712" frameX="-1" frameY="-9" frameWidth="382" frameHeight="722"/>
+	<SubTexture name="yukira pose down0002" x="420" y="2346" width="382" height="722"/>
+	<SubTexture name="yukira pose down0003" x="420" y="2346" width="382" height="722"/>
+	<SubTexture name="yukira pose down0004" x="420" y="2346" width="382" height="722"/>
+	<SubTexture name="yukira pose down0005" x="420" y="2346" width="382" height="722"/>
+	<SubTexture name="yukira pose down0006" x="420" y="2346" width="382" height="722"/>
+	<SubTexture name="yukira pose down0007" x="420" y="2346" width="382" height="722"/>
+	<SubTexture name="yukira pose down0008" x="420" y="2346" width="382" height="722"/>
+	<SubTexture name="yukira pose down0009" x="420" y="2346" width="382" height="722"/>
+	<SubTexture name="yukira pose down0010" x="420" y="2346" width="382" height="722"/>
+	<SubTexture name="yukira pose down0011" x="420" y="2346" width="382" height="722"/>
+	<SubTexture name="yukira pose down0012" x="420" y="2346" width="382" height="722"/>
+	<SubTexture name="yukira pose down0013" x="420" y="2346" width="382" height="722"/>
+	<SubTexture name="yukira pose down0014" x="420" y="2346" width="382" height="722"/>
+	<SubTexture name="yukira pose left0000" x="410" y="3089" width="402" height="769" frameX="0" frameY="-1" frameWidth="402" frameHeight="771"/>
+	<SubTexture name="yukira pose left0001" x="410" y="3089" width="402" height="769" frameX="0" frameY="-1" frameWidth="402" frameHeight="771"/>
+	<SubTexture name="yukira pose left0002" x="4" y="3089" width="402" height="771"/>
+	<SubTexture name="yukira pose left0003" x="4" y="3089" width="402" height="771"/>
+	<SubTexture name="yukira pose left0004" x="4" y="3089" width="402" height="771"/>
+	<SubTexture name="yukira pose left0005" x="4" y="3089" width="402" height="771"/>
+	<SubTexture name="yukira pose left0006" x="4" y="3089" width="402" height="771"/>
+	<SubTexture name="yukira pose left0007" x="4" y="3089" width="402" height="771"/>
+	<SubTexture name="yukira pose left0008" x="4" y="3089" width="402" height="771"/>
+	<SubTexture name="yukira pose left0009" x="4" y="3089" width="402" height="771"/>
+	<SubTexture name="yukira pose left0010" x="4" y="3089" width="402" height="771"/>
+	<SubTexture name="yukira pose left0011" x="4" y="3089" width="402" height="771"/>
+	<SubTexture name="yukira pose left0012" x="4" y="3089" width="402" height="771"/>
+	<SubTexture name="yukira pose left0013" x="4" y="3089" width="402" height="771"/>
+	<SubTexture name="yukira pose left0014" x="4" y="3089" width="402" height="771"/>
+	<SubTexture name="yukira pose right0000" x="4" y="1560" width="417" height="758" frameX="0" frameY="-5" frameWidth="417" frameHeight="763"/>
+	<SubTexture name="yukira pose right0001" x="4" y="1560" width="417" height="758" frameX="0" frameY="-5" frameWidth="417" frameHeight="763"/>
+	<SubTexture name="yukira pose right0002" x="4" y="2322" width="412" height="763" frameX="0" frameY="0" frameWidth="417" frameHeight="763"/>
+	<SubTexture name="yukira pose right0003" x="4" y="2322" width="412" height="763" frameX="0" frameY="0" frameWidth="417" frameHeight="763"/>
+	<SubTexture name="yukira pose right0004" x="4" y="2322" width="412" height="763" frameX="0" frameY="0" frameWidth="417" frameHeight="763"/>
+	<SubTexture name="yukira pose right0005" x="4" y="2322" width="412" height="763" frameX="0" frameY="0" frameWidth="417" frameHeight="763"/>
+	<SubTexture name="yukira pose right0006" x="4" y="2322" width="412" height="763" frameX="0" frameY="0" frameWidth="417" frameHeight="763"/>
+	<SubTexture name="yukira pose right0007" x="4" y="2322" width="412" height="763" frameX="0" frameY="0" frameWidth="417" frameHeight="763"/>
+	<SubTexture name="yukira pose right0008" x="4" y="2322" width="412" height="763" frameX="0" frameY="0" frameWidth="417" frameHeight="763"/>
+	<SubTexture name="yukira pose right0009" x="4" y="2322" width="412" height="763" frameX="0" frameY="0" frameWidth="417" frameHeight="763"/>
+	<SubTexture name="yukira pose right0010" x="4" y="2322" width="412" height="763" frameX="0" frameY="0" frameWidth="417" frameHeight="763"/>
+	<SubTexture name="yukira pose right0011" x="4" y="2322" width="412" height="763" frameX="0" frameY="0" frameWidth="417" frameHeight="763"/>
+	<SubTexture name="yukira pose right0012" x="4" y="2322" width="412" height="763" frameX="0" frameY="0" frameWidth="417" frameHeight="763"/>
+	<SubTexture name="yukira pose right0013" x="4" y="2322" width="412" height="763" frameX="0" frameY="0" frameWidth="417" frameHeight="763"/>
+	<SubTexture name="yukira pose right0014" x="4" y="2322" width="412" height="763" frameX="0" frameY="0" frameWidth="417" frameHeight="763"/>
+	<SubTexture name="yukira pose up0000" x="4" y="780" width="424" height="776" frameX="-25" frameY="0" frameWidth="449" frameHeight="776"/>
+	<SubTexture name="yukira pose up0001" x="4" y="780" width="424" height="776" frameX="-25" frameY="0" frameWidth="449" frameHeight="776"/>
+	<SubTexture name="yukira pose up0002" x="4" y="4" width="438" height="772" frameX="0" frameY="-4" frameWidth="449" frameHeight="776"/>
+	<SubTexture name="yukira pose up0003" x="4" y="4" width="438" height="772" frameX="0" frameY="-4" frameWidth="449" frameHeight="776"/>
+	<SubTexture name="yukira pose up0004" x="4" y="4" width="438" height="772" frameX="0" frameY="-4" frameWidth="449" frameHeight="776"/>
+	<SubTexture name="yukira pose up0005" x="4" y="4" width="438" height="772" frameX="0" frameY="-4" frameWidth="449" frameHeight="776"/>
+	<SubTexture name="yukira pose up0006" x="4" y="4" width="438" height="772" frameX="0" frameY="-4" frameWidth="449" frameHeight="776"/>
+	<SubTexture name="yukira pose up0007" x="4" y="4" width="438" height="772" frameX="0" frameY="-4" frameWidth="449" frameHeight="776"/>
+	<SubTexture name="yukira pose up0008" x="4" y="4" width="438" height="772" frameX="0" frameY="-4" frameWidth="449" frameHeight="776"/>
+	<SubTexture name="yukira pose up0009" x="4" y="4" width="438" height="772" frameX="0" frameY="-4" frameWidth="449" frameHeight="776"/>
+	<SubTexture name="yukira pose up0010" x="4" y="4" width="438" height="772" frameX="0" frameY="-4" frameWidth="449" frameHeight="776"/>
+	<SubTexture name="yukira pose up0011" x="4" y="4" width="438" height="772" frameX="0" frameY="-4" frameWidth="449" frameHeight="776"/>
+	<SubTexture name="yukira pose up0012" x="4" y="4" width="438" height="772" frameX="0" frameY="-4" frameWidth="449" frameHeight="776"/>
+	<SubTexture name="yukira pose up0013" x="4" y="4" width="438" height="772" frameX="0" frameY="-4" frameWidth="449" frameHeight="776"/>
+	<SubTexture name="yukira pose up0014" x="4" y="4" width="438" height="772" frameX="0" frameY="-4" frameWidth="449" frameHeight="776"/>
+</TextureAtlas>

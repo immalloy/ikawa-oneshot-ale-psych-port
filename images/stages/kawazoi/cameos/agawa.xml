@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="agawa.png" width="588" height="1072">
+	<SubTexture name="gawa bump0000" x="1" y="1" width="295" height="528" frameX="-0" frameY="-7" frameWidth="295" frameHeight="536"/>
+	<SubTexture name="gawa bump0001" x="1" y="1" width="295" height="528" frameX="-0" frameY="-7" frameWidth="295" frameHeight="536"/>
+	<SubTexture name="gawa bump0002" x="299" y="1" width="288" height="533" frameX="-3" frameY="-2" frameWidth="295" frameHeight="536"/>
+	<SubTexture name="gawa bump0003" x="299" y="1" width="288" height="533" frameX="-3" frameY="-2" frameWidth="295" frameHeight="536"/>
+	<SubTexture name="gawa bump0004" x="290" y="537" width="286" height="534" frameX="-4" frameY="-1" frameWidth="295" frameHeight="536"/>
+	<SubTexture name="gawa bump0005" x="290" y="537" width="286" height="534" frameX="-4" frameY="-1" frameWidth="295" frameHeight="536"/>
+	<SubTexture name="gawa bump0006" x="1" y="532" width="286" height="536" frameX="-4" frameY="-0" frameWidth="295" frameHeight="536"/>
+	<SubTexture name="gawa bump0007" x="1" y="532" width="286" height="536" frameX="-4" frameY="-0" frameWidth="295" frameHeight="536"/>
+	<SubTexture name="gawa bump0008" x="1" y="532" width="286" height="536" frameX="-4" frameY="-0" frameWidth="295" frameHeight="536"/>
+	<SubTexture name="gawa bump0009" x="1" y="532" width="286" height="536" frameX="-4" frameY="-0" frameWidth="295" frameHeight="536"/>
+	<SubTexture name="gawa bump0010" x="1" y="532" width="286" height="536" frameX="-4" frameY="-0" frameWidth="295" frameHeight="536"/>
+	<SubTexture name="gawa bump0011" x="1" y="532" width="286" height="536" frameX="-4" frameY="-0" frameWidth="295" frameHeight="536"/>
+	<SubTexture name="gawa bump0012" x="1" y="532" width="286" height="536" frameX="-4" frameY="-0" frameWidth="295" frameHeight="536"/>
+	<SubTexture name="gawa bump0013" x="1" y="532" width="286" height="536" frameX="-4" frameY="-0" frameWidth="295" frameHeight="536"/>
+	<SubTexture name="gawa bump0014" x="1" y="532" width="286" height="536" frameX="-4" frameY="-0" frameWidth="295" frameHeight="536"/>
+</TextureAtlas>

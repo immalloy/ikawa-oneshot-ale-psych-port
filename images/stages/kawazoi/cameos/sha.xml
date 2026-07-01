@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sha.png">
+	<SubTexture name="sha bump0000" x="1" y="1" width="271" height="273" frameX="-0" frameY="-6" frameWidth="271" frameHeight="281"/>
+	<SubTexture name="sha bump0001" x="1" y="1" width="271" height="273" frameX="-0" frameY="-6" frameWidth="271" frameHeight="281"/>
+	<SubTexture name="sha bump0002" x="1" y="285" width="277" height="264" rotated="true" frameX="-2" frameY="-3" frameWidth="271" frameHeight="281"/>
+	<SubTexture name="sha bump0003" x="1" y="285" width="277" height="264" rotated="true" frameX="-2" frameY="-3" frameWidth="271" frameHeight="281"/>
+	<SubTexture name="sha bump0004" x="281" y="285" width="279" height="261" rotated="true" frameX="-3" frameY="-1" frameWidth="271" frameHeight="281"/>
+	<SubTexture name="sha bump0005" x="281" y="285" width="279" height="261" rotated="true" frameX="-3" frameY="-1" frameWidth="271" frameHeight="281"/>
+	<SubTexture name="sha bump0006" x="275" y="1" width="261" height="281" frameX="-3" frameY="-0" frameWidth="271" frameHeight="281"/>
+	<SubTexture name="sha bump0007" x="275" y="1" width="261" height="281" frameX="-3" frameY="-0" frameWidth="271" frameHeight="281"/>
+	<SubTexture name="sha bump0008" x="275" y="1" width="261" height="281" frameX="-3" frameY="-0" frameWidth="271" frameHeight="281"/>
+	<SubTexture name="sha bump0009" x="275" y="1" width="261" height="281" frameX="-3" frameY="-0" frameWidth="271" frameHeight="281"/>
+	<SubTexture name="sha bump0010" x="275" y="1" width="261" height="281" frameX="-3" frameY="-0" frameWidth="271" frameHeight="281"/>
+	<SubTexture name="sha bump0011" x="275" y="1" width="261" height="281" frameX="-3" frameY="-0" frameWidth="271" frameHeight="281"/>
+	<SubTexture name="sha bump0012" x="275" y="1" width="261" height="281" frameX="-3" frameY="-0" frameWidth="271" frameHeight="281"/>
+	<SubTexture name="sha bump0013" x="275" y="1" width="261" height="281" frameX="-3" frameY="-0" frameWidth="271" frameHeight="281"/>
+	<SubTexture name="sha bump0014" x="275" y="1" width="261" height="281" frameX="-3" frameY="-0" frameWidth="271" frameHeight="281"/>
+</TextureAtlas>

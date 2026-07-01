@@ -1,0 +1,108 @@
+{
+	"images": [
+		"gf-spa"
+	],
+	"type": "sheet",
+	"animations": [
+		{
+			"name": "idle",
+			"prefix": "GF Dancing Beat",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		{
+			"name": "sad",
+			"prefix": "gf sad",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": -21,
+				"y": -7
+			}
+		},
+		{
+			"name": "danceRight",
+			"prefix": "GF Dancing Beat",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"offset": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		{
+			"name": "danceLeft",
+			"prefix": "GF Dancing Beat",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"offset": {
+				"x": 0,
+				"y": 0
+			}
+		}
+	],
+	"animationLength": 0.4,
+	"icon": "gf",
+	"cameraOffset": {
+		"x": -230,
+		"y": 50
+	},
+	"death": "bf-dead",
+	"sustainAnimation": true,
+	"barColor": "#A5004D",
+	"properties": {
+		"x": 50,
+		"y": 145,
+		"scale": {
+			"x": 1,
+			"y": 1
+		},
+		"flipX": false,
+		"antialiasing": true
+	},
+	"bopAnimations": [
+		"danceLeft",
+		"danceRight"
+	],
+	"format": "ale-character-v0.1"
+}

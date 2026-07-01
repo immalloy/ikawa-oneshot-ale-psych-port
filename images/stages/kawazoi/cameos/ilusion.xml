@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="ilusion.png" width="685" height="589">
+	<SubTexture name="ilusi bump0000" x="1" y="349" width="336" height="239" rotated="true" frameX="-0" frameY="-6" frameWidth="239" frameHeight="345"/>
+	<SubTexture name="ilusi bump0001" x="1" y="349" width="336" height="239" rotated="true" frameX="-0" frameY="-6" frameWidth="239" frameHeight="345"/>
+	<SubTexture name="ilusi bump0002" x="237" y="1" width="235" height="342" frameX="-1" frameY="-2" frameWidth="239" frameHeight="345"/>
+	<SubTexture name="ilusi bump0003" x="237" y="1" width="235" height="342" frameX="-1" frameY="-2" frameWidth="239" frameHeight="345"/>
+	<SubTexture name="ilusi bump0004" x="340" y="346" width="344" height="233" rotated="true" frameX="-2" frameY="-0" frameWidth="239" frameHeight="345"/>
+	<SubTexture name="ilusi bump0005" x="340" y="346" width="344" height="233" rotated="true" frameX="-2" frameY="-0" frameWidth="239" frameHeight="345"/>
+	<SubTexture name="ilusi bump0006" x="1" y="1" width="233" height="345" frameX="-2" frameY="-0" frameWidth="239" frameHeight="345"/>
+	<SubTexture name="ilusi bump0007" x="1" y="1" width="233" height="345" frameX="-2" frameY="-0" frameWidth="239" frameHeight="345"/>
+	<SubTexture name="ilusi bump0008" x="1" y="1" width="233" height="345" frameX="-2" frameY="-0" frameWidth="239" frameHeight="345"/>
+	<SubTexture name="ilusi bump0009" x="1" y="1" width="233" height="345" frameX="-2" frameY="-0" frameWidth="239" frameHeight="345"/>
+	<SubTexture name="ilusi bump0010" x="1" y="1" width="233" height="345" frameX="-2" frameY="-0" frameWidth="239" frameHeight="345"/>
+	<SubTexture name="ilusi bump0011" x="1" y="1" width="233" height="345" frameX="-2" frameY="-0" frameWidth="239" frameHeight="345"/>
+	<SubTexture name="ilusi bump0012" x="1" y="1" width="233" height="345" frameX="-2" frameY="-0" frameWidth="239" frameHeight="345"/>
+	<SubTexture name="ilusi bump0013" x="1" y="1" width="233" height="345" frameX="-2" frameY="-0" frameWidth="239" frameHeight="345"/>
+	<SubTexture name="ilusi bump0014" x="1" y="1" width="233" height="345" frameX="-2" frameY="-0" frameWidth="239" frameHeight="345"/>
+</TextureAtlas>

@@ -1,0 +1,275 @@
+{
+	"zoom": 0.6,
+	"speed": 1.4,
+	"hud": "ikawa",
+	"charactersOffset": {
+		"type": {
+			"opponent": {
+				"x": 100,
+				"y": 100
+			},
+			"player": {
+				"x": 950,
+				"y": 100
+			},
+			"extra": {
+				"x": 550,
+				"y": 80
+			}
+		}
+	},
+	"charactersCamera": {
+		"type": {
+			"opponent": {
+				"x": 150,
+				"y": -100
+			},
+			"player": {
+				"x": -150,
+				"y": -100
+			},
+			"extra": {
+				"x": 150,
+				"y": -100
+			}
+		}
+	},
+	"format": "ale-stage-v0.1",
+	"spritesConfig": {
+		"directory": "kawazoi",
+		"properties": {},
+		"sprites": [
+			{
+				"id": "sky",
+				"images": [
+					"sky"
+				],
+				"type": "image",
+				"properties": {
+					"x": -650,
+					"y": -90,
+					"scrollFactor": {
+						"x": 0,
+						"y": 0.1
+					},
+					"scale": {
+						"x": 1,
+						"y": 0.3
+					},
+					"antialiasing": true
+				},
+				"addMethod": "addBehindDad"
+			},
+			{
+				"id": "clouds",
+				"images": [
+					"clouds"
+				],
+				"type": "image",
+				"properties": {
+					"x": 100,
+					"y": -46,
+					"scrollFactor": {
+						"x": 0.03,
+						"y": 0.03
+					},
+					"scale": {
+						"x": 0.7,
+						"y": 0.7
+					},
+					"antialiasing": true
+				},
+				"addMethod": "addBehindDad"
+			},
+			{
+				"id": "mountain",
+				"images": [
+					"mountain"
+				],
+				"type": "image",
+				"properties": {
+					"x": 673,
+					"y": 18,
+					"scrollFactor": {
+						"x": 0.07,
+						"y": 0.07
+					},
+					"scale": {
+						"x": 0.7,
+						"y": 0.7
+					},
+					"antialiasing": true
+				},
+				"addMethod": "addBehindDad"
+			},
+			{
+				"id": "building",
+				"images": [
+					"building"
+				],
+				"type": "image",
+				"properties": {
+					"x": -147,
+					"y": -64,
+					"scrollFactor": {
+						"x": 0.07,
+						"y": 0.07
+					},
+					"scale": {
+						"x": 0.7,
+						"y": 0.7
+					},
+					"antialiasing": true
+				},
+				"addMethod": "addBehindDad"
+			},
+			{
+				"id": "houses",
+				"images": [
+					"houses"
+				],
+				"type": "image",
+				"properties": {
+					"x": 147,
+					"y": 142,
+					"scrollFactor": {
+						"x": 0.15,
+						"y": 0.35
+					},
+					"scale": {
+						"x": 0.8,
+						"y": 0.8
+					},
+					"antialiasing": true
+				},
+				"addMethod": "addBehindDad"
+			},
+			{
+				"id": "gate",
+				"images": [
+					"gate"
+				],
+				"type": "image",
+				"properties": {
+					"x": -370,
+					"y": 98,
+					"scrollFactor": {
+						"x": 0.3,
+						"y": 0.5
+					},
+					"scale": {
+						"x": 0.8,
+						"y": 0.8
+					},
+					"antialiasing": true
+				},
+				"addMethod": "addBehindDad"
+			},
+			{
+				"id": "tomare",
+				"images": [
+					"tomare"
+				],
+				"type": "image",
+				"properties": {
+					"x": 870,
+					"y": 38,
+					"scrollFactor": {
+						"x": 0.32,
+						"y": 0.52
+					},
+					"scale": {
+						"x": 0.8,
+						"y": 0.8
+					},
+					"antialiasing": true
+				},
+				"addMethod": "addBehindDad"
+			},
+			{
+				"id": "floor",
+				"images": [
+					"floor"
+				],
+				"type": "image",
+				"properties": {
+					"x": -900,
+					"y": 644,
+					"scrollFactor": {
+						"x": 0.95,
+						"y": 0.95
+					},
+					"scale": {
+						"x": 1,
+						"y": 1
+					},
+					"antialiasing": true
+				},
+				"addMethod": "addBehindDad"
+			},
+			{
+				"id": "wall",
+				"images": [
+					"wall"
+				],
+				"type": "image",
+				"properties": {
+					"x": -705,
+					"y": 214,
+					"scrollFactor": {
+						"x": 0.65,
+						"y": 0.95
+					},
+					"scale": {
+						"x": 1,
+						"y": 1
+					},
+					"antialiasing": true
+				},
+				"addMethod": "addBehindDad"
+			},
+			{
+				"id": "tree1",
+				"images": [
+					"tree1"
+				],
+				"type": "image",
+				"properties": {
+					"x": -92,
+					"y": -581,
+					"scrollFactor": {
+						"x": 0.65,
+						"y": 0.95
+					},
+					"scale": {
+						"x": 1,
+						"y": 1
+					},
+					"antialiasing": true
+				},
+				"addMethod": "addBehindDad"
+			},
+			{
+				"id": "tree2",
+				"images": [
+					"tree2"
+				],
+				"type": "image",
+				"properties": {
+					"x": 635,
+					"y": -690,
+					"scrollFactor": {
+						"x": 0.65,
+						"y": 0.95
+					},
+					"scale": {
+						"x": 1,
+						"y": 1
+					},
+					"antialiasing": true
+				},
+				"addMethod": "addBehindDad"
+			}
+		]
+	}
+}

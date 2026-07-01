@@ -1,0 +1,197 @@
+{
+	"images": [
+		"bf-spa"
+	],
+	"type": "sheet",
+	"animations": [
+		{
+			"name": "idle",
+			"prefix": "BF idle dance0",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		{
+			"name": "singLEFT",
+			"prefix": "bf pose left0",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": 0,
+				"y": 2
+			}
+		},
+		{
+			"name": "singLEFTalt",
+			"prefix": "bf left alt0",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": 7,
+				"y": 2
+			}
+		},
+		{
+			"name": "singLEFTmiss",
+			"prefix": "bf left miss0",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": 2,
+				"y": 22
+			}
+		},
+		{
+			"name": "singDOWN",
+			"prefix": "bf pose down0",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": -16,
+				"y": -60
+			}
+		},
+		{
+			"name": "singDOWNalt",
+			"prefix": "bf down alt0",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": -23,
+				"y": -60
+			}
+		},
+		{
+			"name": "singDOWNmiss",
+			"prefix": "bf down miss0",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": -13,
+				"y": -27
+			}
+		},
+		{
+			"name": "singUP",
+			"prefix": "bf pose up0",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": -42,
+				"y": 29
+			}
+		},
+		{
+			"name": "singUPalt",
+			"prefix": "bf up alt0",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": -43,
+				"y": 29
+			}
+		},
+		{
+			"name": "singUPmiss",
+			"prefix": "bf up miss0",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": -37,
+				"y": 29
+			}
+		},
+		{
+			"name": "singRIGHT",
+			"prefix": "bf pose right0",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": -36,
+				"y": -9
+			}
+		},
+		{
+			"name": "singRIGHTalt",
+			"prefix": "bf right alt0",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": -38,
+				"y": -9
+			}
+		},
+		{
+			"name": "singRIGHTmiss",
+			"prefix": "bf right miss0",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": -25,
+				"y": 31
+			}
+		},
+		{
+			"name": "hey",
+			"prefix": "bf HEY!!",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": -3,
+				"y": 4
+			}
+		},
+		{
+			"name": "scared",
+			"prefix": "bf shaking",
+			"frameRate": 24,
+			"loop": true,
+			"indices": [],
+			"offset": {
+				"x": -1,
+				"y": -6
+			}
+		}
+	],
+	"animationLength": 0.4,
+	"icon": "bf",
+	"cameraOffset": {
+		"x": 0,
+		"y": 0
+	},
+	"death": "bf-dead",
+	"sustainAnimation": true,
+	"barColor": "#30B0D1",
+	"properties": {
+		"x": 0,
+		"y": 350,
+		"scale": {
+			"x": 1,
+			"y": 1
+		},
+		"flipX": true,
+		"antialiasing": true
+	},
+	"bopAnimations": [
+		"idle",
+		null
+	],
+	"format": "ale-character-v0.1"
+}

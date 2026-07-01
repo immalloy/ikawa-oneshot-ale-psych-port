@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="supxr.png" width="1490" height="1430">
+	<SubTexture name="xr bump0000" x="937" y="1" width="303" height="573" frameX="-0" frameY="-10" frameWidth="307" frameHeight="584"/>
+	<SubTexture name="xr bump0001" x="937" y="1" width="303" height="573" frameX="-0" frameY="-10" frameWidth="307" frameHeight="584"/>
+	<SubTexture name="xr bump0002" x="1" y="895" width="579" height="296" rotated="true" frameX="-4" frameY="-4" frameWidth="307" frameHeight="584"/>
+	<SubTexture name="xr bump0003" x="1" y="895" width="579" height="296" rotated="true" frameX="-4" frameY="-4" frameWidth="307" frameHeight="584"/>
+	<SubTexture name="xr bump0004" x="635" y="587" width="299" height="581" frameX="-4" frameY="-2" frameWidth="307" frameHeight="584"/>
+	<SubTexture name="xr bump0005" x="635" y="587" width="299" height="581" frameX="-4" frameY="-2" frameWidth="307" frameHeight="584"/>
+	<SubTexture name="xr bump0006" x="1" y="593" width="583" height="299" rotated="true" frameX="-4" frameY="-0" frameWidth="307" frameHeight="584"/>
+	<SubTexture name="xr bump0007" x="1" y="593" width="583" height="299" rotated="true" frameX="-4" frameY="-0" frameWidth="307" frameHeight="584"/>
+	<SubTexture name="xr bump0008" x="1" y="593" width="583" height="299" rotated="true" frameX="-4" frameY="-0" frameWidth="307" frameHeight="584"/>
+	<SubTexture name="xr bump0009" x="1" y="593" width="583" height="299" rotated="true" frameX="-4" frameY="-0" frameWidth="307" frameHeight="584"/>
+	<SubTexture name="xr bump0010" x="1" y="593" width="583" height="299" rotated="true" frameX="-4" frameY="-0" frameWidth="307" frameHeight="584"/>
+	<SubTexture name="xr bump0011" x="1" y="593" width="583" height="299" rotated="true" frameX="-4" frameY="-0" frameWidth="307" frameHeight="584"/>
+	<SubTexture name="xr bump0012" x="1" y="593" width="583" height="299" rotated="true" frameX="-4" frameY="-0" frameWidth="307" frameHeight="584"/>
+	<SubTexture name="xr bump0013" x="1" y="593" width="583" height="299" rotated="true" frameX="-4" frameY="-0" frameWidth="307" frameHeight="584"/>
+	<SubTexture name="xr bump0014" x="1" y="593" width="583" height="299" rotated="true" frameX="-4" frameY="-0" frameWidth="307" frameHeight="584"/>
+	<SubTexture name="xr look0000" x="937" y="577" width="293" height="592" frameX="-7" frameY="-0" frameWidth="301" frameHeight="592"/>
+	<SubTexture name="xr look0001" x="937" y="577" width="293" height="592" frameX="-7" frameY="-0" frameWidth="301" frameHeight="592"/>
+	<SubTexture name="xr look0002" x="635" y="1" width="299" height="583" frameX="-0" frameY="-8" frameWidth="301" frameHeight="592"/>
+	<SubTexture name="xr look0003" x="635" y="1" width="299" height="583" frameX="-0" frameY="-8" frameWidth="301" frameHeight="592"/>
+	<SubTexture name="xr look0004" x="635" y="1" width="299" height="583" frameX="-0" frameY="-8" frameWidth="301" frameHeight="592"/>
+	<SubTexture name="xr look0005" x="635" y="1" width="299" height="583" frameX="-0" frameY="-8" frameWidth="301" frameHeight="592"/>
+	<SubTexture name="xr look0006" x="635" y="1" width="299" height="583" frameX="-0" frameY="-8" frameWidth="301" frameHeight="592"/>
+	<SubTexture name="xr look0007" x="635" y="1" width="299" height="583" frameX="-0" frameY="-8" frameWidth="301" frameHeight="592"/>
+	<SubTexture name="xr look0008" x="635" y="1" width="299" height="583" frameX="-0" frameY="-8" frameWidth="301" frameHeight="592"/>
+	<SubTexture name="xr look0009" x="635" y="1" width="299" height="583" frameX="-0" frameY="-8" frameWidth="301" frameHeight="592"/>
+	<SubTexture name="xr look0010" x="635" y="1" width="299" height="583" frameX="-0" frameY="-8" frameWidth="301" frameHeight="592"/>
+	<SubTexture name="xr look0011" x="635" y="1" width="299" height="583" frameX="-0" frameY="-8" frameWidth="301" frameHeight="592"/>
+	<SubTexture name="xr look0012" x="635" y="1" width="299" height="583" frameX="-0" frameY="-8" frameWidth="301" frameHeight="592"/>
+	<SubTexture name="xr look0013" x="635" y="1" width="299" height="583" frameX="-0" frameY="-8" frameWidth="301" frameHeight="592"/>
+	<SubTexture name="xr look0014" x="635" y="1" width="299" height="583" frameX="-0" frameY="-8" frameWidth="301" frameHeight="592"/>
+	<SubTexture name="xr walkin0000" x="326" y="1" width="306" height="587" frameX="-15" frameY="-2" frameWidth="337" frameHeight="590"/>
+	<SubTexture name="xr walkin0001" x="1233" y="577" width="256" height="586" frameX="-0" frameY="-1" frameWidth="337" frameHeight="590"/>
+	<SubTexture name="xr walkin0002" x="1" y="1" width="322" height="589" frameX="-15" frameY="-1" frameWidth="337" frameHeight="590"/>
+	<SubTexture name="xr walkin0003" x="583" y="1172" width="587" height="257" rotated="true" frameX="-2" frameY="-1" frameWidth="337" frameHeight="590"/>
+</TextureAtlas>

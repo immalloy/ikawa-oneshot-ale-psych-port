@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="nigo.png" width="1015" height="886">
+	<SubTexture name="nigo bump0000" x="1" y="1" width="341" height="535" frameX="-0" frameY="-10" frameWidth="341" frameHeight="546"/>
+	<SubTexture name="nigo bump0001" x="1" y="1" width="341" height="535" frameX="-0" frameY="-10" frameWidth="341" frameHeight="546"/>
+	<SubTexture name="nigo bump0002" x="1" y="550" width="541" height="335" rotated="true" frameX="-2" frameY="-5" frameWidth="341" frameHeight="546"/>
+	<SubTexture name="nigo bump0003" x="1" y="550" width="541" height="335" rotated="true" frameX="-2" frameY="-5" frameWidth="341" frameHeight="546"/>
+	<SubTexture name="nigo bump0004" x="681" y="1" width="333" height="544" frameX="-3" frameY="-2" frameWidth="341" frameHeight="546"/>
+	<SubTexture name="nigo bump0005" x="681" y="1" width="333" height="544" frameX="-3" frameY="-2" frameWidth="341" frameHeight="546"/>
+	<SubTexture name="nigo bump0006" x="345" y="1" width="333" height="546" frameX="-3" frameY="-0" frameWidth="341" frameHeight="546"/>
+	<SubTexture name="nigo bump0007" x="345" y="1" width="333" height="546" frameX="-3" frameY="-0" frameWidth="341" frameHeight="546"/>
+	<SubTexture name="nigo bump0008" x="345" y="1" width="333" height="546" frameX="-3" frameY="-0" frameWidth="341" frameHeight="546"/>
+	<SubTexture name="nigo bump0009" x="345" y="1" width="333" height="546" frameX="-3" frameY="-0" frameWidth="341" frameHeight="546"/>
+	<SubTexture name="nigo bump0010" x="345" y="1" width="333" height="546" frameX="-3" frameY="-0" frameWidth="341" frameHeight="546"/>
+	<SubTexture name="nigo bump0011" x="345" y="1" width="333" height="546" frameX="-3" frameY="-0" frameWidth="341" frameHeight="546"/>
+	<SubTexture name="nigo bump0012" x="345" y="1" width="333" height="546" frameX="-3" frameY="-0" frameWidth="341" frameHeight="546"/>
+	<SubTexture name="nigo bump0013" x="345" y="1" width="333" height="546" frameX="-3" frameY="-0" frameWidth="341" frameHeight="546"/>
+	<SubTexture name="nigo bump0014" x="345" y="1" width="333" height="546" frameX="-3" frameY="-0" frameWidth="341" frameHeight="546"/>
+</TextureAtlas>

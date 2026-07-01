@@ -1,0 +1,87 @@
+{
+	"images": [
+		"yukira"
+	],
+	"type": "sheet",
+	"animations": [
+		{
+			"name": "idle",
+			"prefix": "yukira idle dance",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		{
+			"name": "singLEFT",
+			"prefix": "yukira pose left",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": 46,
+				"y": -12
+			}
+		},
+		{
+			"name": "singDOWN",
+			"prefix": "yukira pose down",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": -12,
+				"y": -67
+			}
+		},
+		{
+			"name": "singUP",
+			"prefix": "yukira pose up",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": 66,
+				"y": 18
+			}
+		},
+		{
+			"name": "singRIGHT",
+			"prefix": "yukira pose right",
+			"frameRate": 24,
+			"loop": false,
+			"indices": [],
+			"offset": {
+				"x": -1,
+				"y": -28
+			}
+		}
+	],
+	"animationLength": 0.4,
+	"icon": "yukira",
+	"cameraOffset": {
+		"x": 0,
+		"y": 0
+	},
+	"death": "bf-dead",
+	"sustainAnimation": true,
+	"barColor": "#CC99FF",
+	"properties": {
+		"x": 0,
+		"y": 25,
+		"scale": {
+			"x": 0.95,
+			"y": 0.95
+		},
+		"flipX": false,
+		"antialiasing": true
+	},
+	"bopAnimations": [
+		"idle",
+		null
+	],
+	"format": "ale-character-v0.1"
+}
