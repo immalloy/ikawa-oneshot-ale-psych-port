@@ -37,7 +37,6 @@
 	"format": "ale-stage-v0.1",
 	"spritesConfig": {
 		"directory": "kawazoi",
-		"properties": {},
 		"sprites": [
 			{
 				"id": "sky",
@@ -55,10 +54,8 @@
 					"scale": {
 						"x": 1,
 						"y": 0.3
-					},
-					"antialiasing": true
-				},
-				"addMethod": "addBehindDad"
+					}
+				}
 			},
 			{
 				"id": "clouds",
@@ -76,10 +73,8 @@
 					"scale": {
 						"x": 0.7,
 						"y": 0.7
-					},
-					"antialiasing": true
-				},
-				"addMethod": "addBehindDad"
+					}
+				}
 			},
 			{
 				"id": "mountain",
@@ -97,10 +92,8 @@
 					"scale": {
 						"x": 0.7,
 						"y": 0.7
-					},
-					"antialiasing": true
-				},
-				"addMethod": "addBehindDad"
+					}
+				}
 			},
 			{
 				"id": "building",
@@ -118,10 +111,8 @@
 					"scale": {
 						"x": 0.7,
 						"y": 0.7
-					},
-					"antialiasing": true
-				},
-				"addMethod": "addBehindDad"
+					}
+				}
 			},
 			{
 				"id": "houses",
@@ -139,10 +130,8 @@
 					"scale": {
 						"x": 0.8,
 						"y": 0.8
-					},
-					"antialiasing": true
-				},
-				"addMethod": "addBehindDad"
+					}
+				}
 			},
 			{
 				"id": "gate",
@@ -160,10 +149,8 @@
 					"scale": {
 						"x": 0.8,
 						"y": 0.8
-					},
-					"antialiasing": true
-				},
-				"addMethod": "addBehindDad"
+					}
+				}
 			},
 			{
 				"id": "tomare",
@@ -181,10 +168,8 @@
 					"scale": {
 						"x": 0.8,
 						"y": 0.8
-					},
-					"antialiasing": true
-				},
-				"addMethod": "addBehindDad"
+					}
+				}
 			},
 			{
 				"id": "floor",
@@ -202,10 +187,8 @@
 					"scale": {
 						"x": 1,
 						"y": 1
-					},
-					"antialiasing": true
-				},
-				"addMethod": "addBehindDad"
+					}
+				}
 			},
 			{
 				"id": "wall",
@@ -223,10 +206,8 @@
 					"scale": {
 						"x": 1,
 						"y": 1
-					},
-					"antialiasing": true
-				},
-				"addMethod": "addBehindDad"
+					}
+				}
 			},
 			{
 				"id": "tree1",
@@ -244,10 +225,8 @@
 					"scale": {
 						"x": 1,
 						"y": 1
-					},
-					"antialiasing": true
-				},
-				"addMethod": "addBehindDad"
+					}
+				}
 			},
 			{
 				"id": "tree2",
@@ -265,10 +244,8 @@
 					"scale": {
 						"x": 1,
 						"y": 1
-					},
-					"antialiasing": true
-				},
-				"addMethod": "addBehindDad"
+					}
+				}
 			}
 		]
 	}
