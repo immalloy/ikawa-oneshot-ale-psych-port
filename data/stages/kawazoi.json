@@ -37,214 +37,227 @@
 	"format": "ale-stage-v0.1",
 	"spritesConfig": {
 		"directory": "kawazoi",
+		"properties": {
+			"scrollFactor": {
+				"x": 0.75
+			}
+		},
 		"sprites": [
 			{
 				"id": "sky",
+				"type": "image",
 				"images": [
 					"sky"
 				],
-				"type": "image",
 				"properties": {
-					"x": -650,
-					"y": -90,
+					"x": -1300,
+					"y": -700,
 					"scrollFactor": {
-						"x": 0,
-						"y": 0.1
-					},
-					"scale": {
-						"x": 1,
-						"y": 0.3
+						"x": 0.2,
+						"y": 0.2
 					}
 				}
 			},
 			{
 				"id": "clouds",
+				"type": "image",
 				"images": [
 					"clouds"
 				],
-				"type": "image",
 				"properties": {
-					"x": 100,
-					"y": -46,
+					"x": -100,
+					"y": -250,
 					"scrollFactor": {
-						"x": 0.03,
-						"y": 0.03
-					},
-					"scale": {
-						"x": 0.7,
-						"y": 0.7
+						"x": 0.3,
+						"y": 0.3
 					}
 				}
 			},
 			{
 				"id": "mountain",
+				"type": "image",
 				"images": [
 					"mountain"
 				],
-				"type": "image",
 				"properties": {
-					"x": 673,
-					"y": 18,
+					"x": 550,
+					"y": -100,
 					"scrollFactor": {
-						"x": 0.07,
-						"y": 0.07
-					},
-					"scale": {
-						"x": 0.7,
-						"y": 0.7
+						"x": 0.4,
+						"y": 0.4
 					}
 				}
 			},
 			{
 				"id": "building",
+				"type": "image",
 				"images": [
 					"building"
 				],
-				"type": "image",
 				"properties": {
-					"x": -147,
-					"y": -64,
+					"x": -800,
+					"y": -300,
 					"scrollFactor": {
-						"x": 0.07,
-						"y": 0.07
-					},
-					"scale": {
-						"x": 0.7,
-						"y": 0.7
+						"x": 0.55,
+						"y": 0.55
 					}
 				}
 			},
 			{
 				"id": "houses",
+				"type": "image",
 				"images": [
 					"houses"
 				],
-				"type": "image",
 				"properties": {
-					"x": 147,
-					"y": 142,
+					"x": -100,
+					"y": 50,
 					"scrollFactor": {
-						"x": 0.15,
-						"y": 0.35
-					},
-					"scale": {
-						"x": 0.8,
-						"y": 0.8
+						"x": 0.55,
+						"y": 0.55
 					}
 				}
 			},
 			{
 				"id": "gate",
+				"type": "image",
 				"images": [
 					"gate"
 				],
-				"type": "image",
 				"properties": {
-					"x": -370,
-					"y": 98,
+					"x": -600,
+					"y": 50,
 					"scrollFactor": {
-						"x": 0.3,
-						"y": 0.5
-					},
-					"scale": {
-						"x": 0.8,
-						"y": 0.8
+						"x": 0.6,
+						"y": 0.6
 					}
 				}
 			},
 			{
 				"id": "tomare",
+				"type": "image",
 				"images": [
 					"tomare"
 				],
-				"type": "image",
 				"properties": {
-					"x": 870,
-					"y": 38,
+					"x": 1100,
 					"scrollFactor": {
-						"x": 0.32,
-						"y": 0.52
-					},
-					"scale": {
-						"x": 0.8,
-						"y": 0.8
+						"x": 0.65,
+						"y": 0.65
 					}
 				}
 			},
 			{
 				"id": "floor",
+				"type": "image",
 				"images": [
 					"floor"
 				],
-				"type": "image",
 				"properties": {
 					"x": -900,
-					"y": 644,
+					"y": 650,
 					"scrollFactor": {
-						"x": 0.95,
-						"y": 0.95
-					},
-					"scale": {
-						"x": 1,
-						"y": 1
+						"x": 1
 					}
 				}
 			},
 			{
 				"id": "wall",
+				"type": "image",
 				"images": [
 					"wall"
 				],
-				"type": "image",
 				"properties": {
-					"x": -705,
-					"y": 214,
-					"scrollFactor": {
-						"x": 0.65,
-						"y": 0.95
-					},
-					"scale": {
-						"x": 1,
-						"y": 1
-					}
+					"x": -675,
+					"y": 220
 				}
 			},
 			{
 				"id": "tree1",
+				"type": "image",
 				"images": [
 					"tree1"
 				],
-				"type": "image",
 				"properties": {
-					"x": -92,
-					"y": -581,
-					"scrollFactor": {
-						"x": 0.65,
-						"y": 0.95
-					},
-					"scale": {
-						"x": 1,
-						"y": 1
-					}
+					"x": -80,
+					"y": -578
 				}
 			},
 			{
 				"id": "tree2",
+				"type": "image",
 				"images": [
 					"tree2"
 				],
-				"type": "image",
 				"properties": {
-					"x": 635,
-					"y": -690,
-					"scrollFactor": {
-						"x": 0.65,
-						"y": 0.95
-					},
-					"scale": {
-						"x": 1,
-						"y": 1
+					"x": 720,
+					"y": -687
+				}
+			},
+			{
+				"id": "jookz",
+				"type": "sheet",
+				"images": [
+					"cameos/jookz"
+				],
+				"animations": [
+					{
+						"name": "idle",
+						"prefix": "jo bump"
 					}
+				],
+				"initialAnimation": "idle",
+				"bopAnimations": [
+					null,
+					"idle"
+				],
+				"properties": {
+					"x": 1350,
+					"y": 200
+				}
+			},
+			{
+				"id": "ilusion",
+				"type": "sheet",
+				"images": [
+					"cameos/ilusion"
+				],
+				"animations": [
+					{
+						"name": "idle",
+						"prefix": "ilusi bump"
+					}
+				],
+				"initialAnimation": "idle",
+				"bopAnimations": [
+					null,
+					"idle"
+				],
+				"properties": {
+					"x": 520,
+					"y": 250
+				}
+			},
+			{
+				"id": "sha",
+				"type": "sheet",
+				"images": [
+					"cameos/sha"
+				],
+				"animations": [
+					{
+						"name": "idle",
+						"prefix": "sha bump"
+					}
+				],
+				"initialAnimation": "idle",
+				"bopAnimations": [
+					null,
+					"idle"
+				],
+				"properties": {
+					"x": 200,
+					"y": 70
 				}
 			}
 		]
